@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace BuberDinner.Application.Services.Authentication
+﻿namespace BuberDinner.Application.Services.Authentication
 {
     public interface IAuthenticationService
     {
